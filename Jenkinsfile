@@ -3,7 +3,7 @@ node {
         echo "building"
     }
 }
-anyagent {
+node {
     stage('test'){
         echo "testing"
     }
