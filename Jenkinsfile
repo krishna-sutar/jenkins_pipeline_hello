@@ -21,7 +21,7 @@ stage('Get approval'){
 }
 node {
     stage('deploy to Prod'){
-    echo "deploying to prod"
+    echo "deploy to prod?"
 }
 }
 
